@@ -1,3 +1,3 @@
 <samp>
-  <a href="https://yashwanthxyz.github.io/portfolio/">portfolio</a>
+  <a href="https://yashwanthxyz.vercel.app">portfolio</a>
 </samp>
